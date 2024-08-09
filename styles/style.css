@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* shared styles */
+.white{
+    color: rgba(255, 255, 255, 1);
+}
+
+/* shared styles */
+
+/* header css starts */
+header{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid tomato;
+    border-radius: 10px;
+   background-image: url(../images/Banner\ Image.png) ;
+    background-size: cover;
+    background-position: center; 
+   
+}
+.hero-title{
+    font-size: 4.5rem;
+    font-weight: 900;
+   text-align: center;
+    margin-bottom: 130px;
+  
+}
+.hero-text{
+    font-size: 2rem;
+    font-weight: 400;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+   
+}
+
+/* header css ends */
