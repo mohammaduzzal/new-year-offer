@@ -207,5 +207,29 @@ header{
     text-align: center;
 }
 /* holiday css ends */
+
+/* picture css starts */
+.picture{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 64px;
+    border: 1px solid tomato;
+    margin-bottom: 120px;
+    
+}
+.two-pic{
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+   background-position: bottom;
+   border-radius: 30px;
+   display: flex;
+
+}
+.two-pic img{
+    width: 100%;
+}
+
+
+/* picture css ends */
 /* three container css ends */
 /* main css */
