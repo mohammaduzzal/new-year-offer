@@ -47,6 +47,17 @@
         width: 100%;
         grid-template-columns: repeat(1, 1fr);
     }
+    .subscribe{
+        width: 100%;
+    }
+    .subscribe input, .sub-btn{
+        display: block;
+        margin: 0 auto;
+        margin-top: 10px;
+    }
+    .subscribe input{
+        width: 100%;
+    }
     
    
   

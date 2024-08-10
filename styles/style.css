@@ -259,4 +259,40 @@ header{
 }
 /* best css ends */
 
+/* subscribe css starts */
+.subscribe{
+    width: 1200px;
+    border: 1px solid tomato;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    background-color: rgba(255, 0, 0, 0.05);
+
+}
+.subscribe img{
+    display: block;
+    margin: 0 auto;
+}
+.subscribe input{
+    border: none;
+    border-radius: 15px;
+    height: 50px;
+    width: 350px;
+    padding: 20px;
+    margin-left: 350px;
+ 
+}
+.sub-btn{
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 1);
+    padding: 15px 30px;
+    background-color: rgba(255, 0, 0, 1);
+  
+}
+
+/* subscribe css ends */
+
 /* main css */
