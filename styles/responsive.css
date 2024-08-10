@@ -5,6 +5,20 @@
     .deal{
       width: 100%;
     }
+    .welcome{
+        width: 100%;
+        padding: 10px;
+    
+        
+    }
+    .wel-text{
+        width: 80%;
+    }
+    .wel-img{
+        width: 20%;
+        margin-top: -80px;
+    }
+    
    
   
 
