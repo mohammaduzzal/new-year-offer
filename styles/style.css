@@ -25,7 +25,7 @@ header{
     margin: 0 auto;
     border: 1px solid tomato;
     border-radius: 10px;
-   background-image: url(../images/Banner\ Image.png) ;
+   background-image: url(../images/Banner\ Image.png);
     background-size: cover;
     background-position: center; 
    
@@ -34,16 +34,53 @@ header{
     font-size: 4.5rem;
     font-weight: 900;
    text-align: center;
-    margin-bottom: 130px;
+   padding: 40px;
+
+  
   
 }
 .hero-text{
     font-size: 2rem;
     font-weight: 400;
     text-align: center;
-    padding: 50px;
-    margin-top: 100px;
+  
+   
    
 }
 
 /* header css ends */
+/* main css */
+/* deal css starts */
+.deal{
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid tomato;
+    margin-top: 120px;
+    padding: 20px;
+}
+.deal-title{
+    font-size: 5.5rem;
+    font-weight: 700;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+}
+.deal-text{
+    font-size: 1.5;
+    font-weight: 500;
+    color: rgba(255, 0, 0, 1);
+    text-align: center;
+}
+.deal-all{
+    font-size: 3rem;
+    font-weight: 700;
+    color: rgba(7, 2, 17, 1);
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+
+.img img{
+    width: 100%;
+}
+/* deal css starts */
+/* main css */
