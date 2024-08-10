@@ -296,3 +296,42 @@ header{
 /* subscribe css ends */
 
 /* main css */
+
+/* footer css starts */
+footer{
+    background-color: rgba(7, 2, 17, 1);
+    border: 1px solid tomato;
+    height: 300px;
+}
+.te-ra{
+    font-style: 1.5rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    
+}
+.me-ta{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.social-img{
+    display: block;
+    text-align: center;
+ 
+  
+    
+}
+.social-img img{
+    padding: 10px;
+  
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+hr{
+    margin-top: 5px;
+}
+/* footer css ends */

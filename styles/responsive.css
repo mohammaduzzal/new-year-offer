@@ -58,7 +58,13 @@
     .subscribe input{
         width: 100%;
     }
-    
+   .me-ta{
+   flex-direction: column;
+   gap: 5px;
+   }
+   .social-img img{
+    width: 10%;
+   }
    
   
 
