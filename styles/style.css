@@ -158,4 +158,33 @@ header{
     margin-top: 50px;
 }
 /* date css ends */
+
+/* three container css starts */
+.three-container{
+    width: 1200px;
+    margin: 0 auto;
+    border: 1px solid tomato;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.card{
+    width: 100%;
+    /* border: 2px solid green; */
+    padding: 30px;
+}
+.egg img{
+    width: 100%;
+ 
+}
+.circle{
+    height: 350px;
+    width: 350px;
+    border: 10px solid red;
+    border-radius: 5000px;
+    display: block;
+    margin: 0 auto;
+    
+}
+/* three container css ends */
 /* main css */

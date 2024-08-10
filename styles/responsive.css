@@ -22,6 +22,13 @@
         width: 100%;
         
     }
+    .three-container{
+        width: 100%;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .card{
+        width: 100%;
+    }
     
    
   
