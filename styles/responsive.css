@@ -40,6 +40,13 @@
     .two-pic div{
         width: 100%;
     }
+    .best{
+        width: 100%;
+    }
+    .img-box{
+        width: 100%;
+        grid-template-columns: repeat(1, 1fr);
+    }
     
    
   

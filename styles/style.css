@@ -187,6 +187,8 @@ header{
     margin: 0 auto;
     
 }
+/* three container css ends */
+
 /* holiday css starts */
 .holiday{
     width: 800px;
@@ -231,5 +233,30 @@ header{
 
 
 /* picture css ends */
-/* three container css ends */
+
+/* best css starts */
+.best{
+    width: 1200px;
+    border: 1px solid tomato;
+    margin: 0 auto;
+    margin-bottom: 120px;
+}
+.img-box{
+    /* border: 1px solid green; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   
+}
+.pic-card{
+    /* border: 1px solid red; */
+    width: 100%;
+    padding: 10px;
+
+}
+.pic-card img{
+    width: 100%;
+    
+}
+/* best css ends */
+
 /* main css */
